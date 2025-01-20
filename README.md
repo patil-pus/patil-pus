@@ -1,6 +1,6 @@
 # Pushkar Patil
 
-![Pushkar Patil Banner](URL_to_your_profile_banner_image)
+![Description of GIF](https://github.com/patil-pus/patil-pus/blob/main/text.gif?raw=true)
 
 ## Hello, Tech Enthusiasts! 👨‍💻🚀
 
