@@ -3,9 +3,7 @@
 
 ## Hello, Tech Enthusiasts! 👨‍💻🚀
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=pushkarpatil1.pushkarpatil1)
 
----
 
 ### Who am I?
 
