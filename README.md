@@ -7,7 +7,7 @@
 
 ### Who am I?
 
-🔭 **Current Role**: I am spearheading complex data architecture optimizations at EXP NEU, Boston, focusing on high scalability and real-time data processing challenges.
+🔭 **Current Role**: I am spearheading complex data architecture optimizations at StudendLandings, Boston, focusing on high scalability and real-time data processing challenges.
 
 🌱 **Tech Stack I’m Skilling Up**: Deeply engrossed in enhancing my mastery over Big Data Technologies, Cloud Service Orchestration, and Machine Learning workflows.
 
