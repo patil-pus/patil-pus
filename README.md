@@ -1,5 +1,4 @@
 
-![Description of GIF](https://github.com/patil-pus/patil-pus/blob/main/text.gif?raw=true)
 
 ## Hello, Tech Enthusiasts! 👨‍💻🚀
 
