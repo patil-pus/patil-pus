@@ -1,47 +1,45 @@
+# 👋 Hello, I’m Pushkar Patil
 
-
-## Hello, Tech Enthusiasts! 👨‍💻🚀
-
-
-
-### Who am I?
-
-🔭 **Current Role**: I am spearheading complex data architecture optimizations at StudendLandings, Boston, focusing on high scalability and real-time data processing challenges.
-
-🌱 **Tech Stack I’m Skilling Up**: Deeply engrossed in enhancing my mastery over Big Data Technologies, Cloud Service Orchestration, and Machine Learning workflows.
-
-🎓 **Academia**: Alumnus of Northeastern University, armed with a Master of Science in Information Systems, specializing in data-driven decision-making frameworks.
-
-💼 **Professional Synopsis**: Proven track record of engineering robust data pipelines, precision data modeling, and architecting sophisticated ETL workflows for multi-terabyte datasets.
-
-📊 **Impact in Numbers**: Managed and transformed datasets encompassing millions of data points, slashing processing overheads by up to 50% and boosting data retrieval times.
-
-✨ **Geek Fact**: Passionate about solving NP-complete problems and optimizing algorithms for fun.
+## 🚀 About Me
+- 🧠 **AI/ML Engineer** with **3+ years** of experience building machine learning and data engineering solutions across ITSM, cloud ecosystems, and large-scale platforms:contentReference[oaicite:1]{index=1}.  
+- 🔍 Specialized in **NLP** (NER, sentiment analysis, QA systems, transformer-based LLMs) and **predictive analytics**, with expertise in **real-time anomaly detection** and **scalable ML pipelines**.  
+- 🌐 Skilled in **AWS**, **GCP**, **Azure**, **Spark**, **Kafka**, **Kubernetes**, **MLflow**, and **Kubeflow** for high-throughput data processing and deployment.  
+- 🎓 **Master of Science in Information Systems**, Northeastern University, Boston.  
 
 ---
 
-### Let's Connect:
-
-[![LinkedIn][1.1]][1]  [![GitHub][2.2]][2]
-
-[1.1]: https://i.stack.imgur.com/gVE0j.png "Connect with me on LinkedIn"
-[1]: https://linkedin.com/in/pushkarpatil1
-[2.2]: https://i.stack.imgur.com/tskMh.png "Follow me on GitHub"
-[2]: https://github.com/pushkarpatil1
-
----
-
-### Tech Arsenal I Employ:
-
+## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=googlecloud)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?style=flat-square&logo=apachespark)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Snowflake](https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=snowflake)
 
-### Projects Showcase:
+---
 
-- **Web App Cloud Deployment**: Architected resilient AWS pipeline leveraging Terraform and orchestrated Microservices via Kubernetes, achieving 99.99% uptime.
-- **Personalized Wealth Management Platform**: Engineered real-time data pipelines using Databricks and MLflow, deploying a FinBERT-based LLM for predictive financial analytics.
-- **Consumer Behavior Insights**: Refined ETL operations for a 2M+ records dataset utilizing Azure Data Lake and Snowflake, culminating in advanced BI dashboards with Power BI.
+## 📈 Experience Highlights
+- **ServiceNow (AI/ML Engineer)**: Architected NLP pipelines with transformer-based LLMs, improving ticket classification accuracy by 28%. Designed predictive analytics ecosystems and containerized MLOps workflows on Kubernetes with MLflow/Kubeflow, compressing release cycles by 40%:contentReference[oaicite:2]{index=2}.  
+- **Experiential AI (Data Analyst/Engineer)**: Built hyperlocal environmental intelligence platforms using GCP Pub/Sub, Flink, and BigQuery sustaining **1M+ records/minute throughput** and delivered real-time insights via Looker dashboards, reducing reporting latency by $10K/month:contentReference[oaicite:3]{index=3}.  
+- **Asfaliea (Data Engineer I)**: Devised multi-source ingestion into AWS S3 via Airflow DAGs, built event-driven ETL with Glue and Snowflake Streams, and enhanced Snowflake performance with clustering, pruning, and caching:contentReference[oaicite:4]{index=4}.
 
+---
+
+## 🌟 Featured Projects
+### 🔗 [LogiFlow: Logistics Data Pipeline](https://github.com/patil-pus)
+- Built on **GCP** with Python, Dataflow, and BigQuery to **increase throughput by 40%**, and automated supply-chain data workflows with Mage.ai and Cloud Scheduler, improving analytics accuracy by 35%:contentReference[oaicite:5]{index=5}.
+
+### 🎙 [PodcastGPT: RAG-Based AI Podcast Search](https://github.com/patil-pus)
+- Integrated **FAISS**, **LangChain**, and **OpenAI API** to improve podcast query speed by 15%. Deployed scalable APIs using **FastAPI**, **AWS Lambda**, and **Step Functions**:contentReference[oaicite:6]{index=6}.
+
+---
+
+## 📫 Let’s Connect!
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/pushkarpatil0/)  
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/patil-pus)
+
+✨ *“Transforming data into actionable intelligence and powering AI at scale.”*
