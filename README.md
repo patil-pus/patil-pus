@@ -23,7 +23,6 @@
 ---
 
 ## 📈 Experience Highlights
-- **ServiceNow (AI/ML Engineer)**: Architected NLP pipelines with transformer-based LLMs, improving ticket classification accuracy by 28%. Designed predictive analytics ecosystems and containerized MLOps workflows on Kubernetes with MLflow/Kubeflow, compressing release cycles by 40%:contentReference[oaicite:2]{index=2}.  
 - **Experiential AI (Data Analyst/Engineer)**: Built hyperlocal environmental intelligence platforms using GCP Pub/Sub, Flink, and BigQuery sustaining **1M+ records/minute throughput** and delivered real-time insights via Looker dashboards, reducing reporting latency by $10K/month:contentReference[oaicite:3]{index=3}.  
 - **Asfaliea (Data Engineer I)**: Devised multi-source ingestion into AWS S3 via Airflow DAGs, built event-driven ETL with Glue and Snowflake Streams, and enhanced Snowflake performance with clustering, pruning, and caching:contentReference[oaicite:4]{index=4}.
 
